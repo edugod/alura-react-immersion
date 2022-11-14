@@ -2,6 +2,13 @@
 	"name": "Mario Souto (DevSoutinho)",
 	"job": "Lead Software Engineer",
 	"github": "omariosouto",
+	"favorites": [
+		{
+			"title": "Awise",
+			"url": "https://www.useawise.com/",
+			"thumb": ""
+		}
+	],
 	"playlists": {
 		"jogos": [
 			{
